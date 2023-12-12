@@ -1,0 +1,26 @@
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 100px;
+    background-color:white;
+    padding: 20px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.card{
+    display:'flex';
+     margin:'20px';
+      gap:'20px';
+      justify-content: center;
+}
